@@ -1,0 +1,19 @@
+import React from 'react'
+import "../app/styles/hero.css"
+import Image from 'next/image'
+const Hero = () => {
+  return (
+    <div className="hero-container">
+    <div className="hero-image-container">
+      <Image src="/images/logo.jpg" alt="Logo" className="hero-image" />
+    </div>
+    <div className="hero-text-container">
+      <p>I'm</p>
+      <p>Muhammad</p>
+      <p>Maaz</p>
+    </div>
+  </div>
+  );
+}
+
+export default Hero

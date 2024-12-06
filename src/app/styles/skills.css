@@ -1,0 +1,32 @@
+/* Skills.css */
+
+.skills-container {
+    padding-top: 8rem; /* Equivalent to Tailwind's pt-32 */
+    text-align: center;
+  }
+  
+  .skills-header {
+    font-size: 3.125rem; /* 50px */
+  }
+  
+  .skills-title {
+    color: #93c5fd; /* Tailwind's text-blue-300 */
+  }
+  
+  .skills-content {
+    margin-left: 150px;
+    padding-top: 8rem; /* Equivalent to Tailwind's pt-32 */
+    font-size: 1.5rem; /* Equivalent to Tailwind's text-2xl */
+    padding-left: 2.5rem; /* Equivalent to Tailwind's px-10 */
+    padding-right: 2.5rem;
+  }
+  
+  .skills-list {
+    list-style-type: disc;
+    padding-left: 1.25rem; /* Equivalent to Tailwind's pl-5 */
+  }
+  
+  .skills-list li {
+    padding-bottom: 1rem; /* Equivalent to Tailwind's pb-4 */
+  }
+  
