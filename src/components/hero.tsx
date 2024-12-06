@@ -8,7 +8,7 @@ const Hero = () => {
       <Image src="/images/logo.jpg" alt="Logo" className="hero-image" />
     </div>
     <div className="hero-text-container">
-      <p>I'm</p>
+      <p>I am</p>
       <p>Muhammad</p>
       <p>Maaz</p>
     </div>

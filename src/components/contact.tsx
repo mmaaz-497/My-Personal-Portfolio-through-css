@@ -10,7 +10,7 @@ const Contact = () => {
       </div>
       <div className="contact-intro">
         <p>
-          I'd love to hear from you! Whether you're interested in working together, asking questions, or just saying hello, feel free to reach out. I'll get back to you as soon as possible.
+          I d love to hear from you! Whether you are interested in working together asking questions or just saying hello feel free to reach out I will get back to you as soon as possible
         </p>
       </div>
       <div className="contact-info">
